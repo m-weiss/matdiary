@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAmazingTravelDiary</string>
+
+    <string name="start_text"> Welcome to MyAmazingTravelDiary</string>
+    <string name="temp_template">%1d \u2103</string>
+
+
+</resources>
